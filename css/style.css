@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.headerImage{
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  height: 3rem;
+  align-items: center;
+}
+
+.logoHuddle{
+  height: 1.5rem;
+}
+
+.headerImage h3{
+  color: rgb(255, 113, 220);
+  width: 8rem;
+  padding: 5px;
+  text-align: center;
+  border: 2px solid  rgb(255, 113, 220);
+  border-radius: 20px;
+}
